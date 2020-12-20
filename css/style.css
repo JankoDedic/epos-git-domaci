@@ -88,6 +88,10 @@ h1, h2, h3, h4, h5, h6 {
   border-left: 4px solid #d27218;
 }
 
+#header #logo h1 a:hover {
+  color: gray;
+}
+
 #header #logo img {
   padding: 0;
   margin: 0;
